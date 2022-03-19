@@ -1,0 +1,15 @@
+.home {
+  padding: 56px 20px;
+  min-height: 100%;
+  width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 900px) {
+  .container {
+    width: 80%;
+  }
+}
