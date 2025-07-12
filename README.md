@@ -1,7 +1,7 @@
 # yaoj-custom-test
 
 upd
-upd
+upd 2
 
 ## CLI Commands
 
